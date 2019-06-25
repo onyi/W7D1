@@ -1,11 +1,11 @@
 import React from 'react';
 
-export const TodoListItem = ( {todo} ) => {
+export const TodoListItem = ( todo ) => {
   return(
     <li>
       {todo.title}
     </li>
-  )
-}
+  );
+};
 
 export default TodoListItem;

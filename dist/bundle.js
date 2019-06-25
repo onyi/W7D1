@@ -176,9 +176,28 @@ var Root = function Root(_ref) {
   !*** ./frontend/components/todos/todo_list.jsx ***!
   \*************************************************/
 /*! exports provided: default */
-/***/ (function(module, exports) {
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: /Users/appacademy/Desktop/W7D1/frontend/components/todos/todo_list.jsx: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (11:4)\n\n\u001b[0m \u001b[90m  9 | \u001b[39m      \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mul\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 10 | \u001b[39m    \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mdiv\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 11 | \u001b[39m    \u001b[33m<\u001b[39m\u001b[33mh3\u001b[39m\u001b[33m>\u001b[39m\u001b[33mTodo\u001b[39m \u001b[33mList\u001b[39m should goes here\u001b[33m!\u001b[39m\u001b[33m!\u001b[39m\u001b[33m!\u001b[39m\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mh3\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m    | \u001b[39m    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 12 | \u001b[39m  )\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 13 | \u001b[39m}\u001b[0m\n\u001b[0m \u001b[90m 14 | \u001b[39m\u001b[0m\n    at Object.raise (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:6344:17)\n    at Object.jsxParseElementAt (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:3577:12)\n    at Object.jsxParseElement (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:3587:17)\n    at Object.parseExprAtom (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:3594:19)\n    at Object.parseExprSubscripts (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:8413:23)\n    at Object.parseMaybeUnary (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:8393:21)\n    at Object.parseExprOps (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:8280:23)\n    at Object.parseMaybeConditional (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:8253:23)\n    at Object.parseMaybeAssign (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:8200:21)\n    at Object.parseParenAndDistinguishExpression (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:8963:28)\n    at Object.parseExprAtom (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:8760:21)\n    at Object.parseExprAtom (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:3599:20)\n    at Object.parseExprSubscripts (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:8413:23)\n    at Object.parseMaybeUnary (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:8393:21)\n    at Object.parseExprOps (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:8280:23)\n    at Object.parseMaybeConditional (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:8253:23)\n    at Object.parseMaybeAssign (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:8200:21)\n    at Object.parseExpression (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:8148:23)\n    at Object.parseReturnStatement (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:10157:28)\n    at Object.parseStatementContent (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:9836:21)\n    at Object.parseStatement (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:9788:17)\n    at Object.parseBlockOrModuleBlockBody (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:10364:25)\n    at Object.parseBlockBody (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:10351:10)\n    at Object.parseBlock (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:10335:10)\n    at Object.parseFunctionBody (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:9408:24)\n    at Object.parseArrowExpression (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:9349:10)\n    at Object.parseParenAndDistinguishExpression (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:8986:12)\n    at Object.parseExprAtom (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:8760:21)\n    at Object.parseExprAtom (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:3599:20)\n    at Object.parseExprSubscripts (/Users/appacademy/Desktop/W7D1/node_modules/@babel/parser/lib/index.js:8413:23)");
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _todo_list_item__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./todo_list_item */ "./frontend/components/todos/todo_list_item.jsx");
+
+ // module.exports = () => <h3>Todo List goes here!</h3>
+
+var TodoList = function TodoList(_ref) {
+  var todos = _ref.todos,
+      receiveTodo = _ref.receiveTodo;
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, todos.map(function (todo) {
+    return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_todo_list_item__WEBPACK_IMPORTED_MODULE_1__["default"], {
+      todo: todo
+    });
+  }))) // <h3>Todo List should goes here!!!</h3>
+  ;
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (TodoList);
 
 /***/ }),
 
@@ -215,6 +234,26 @@ var mapDispatchToProps = function mapDispatchToProps(dispatch) {
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Object(react_redux__WEBPACK_IMPORTED_MODULE_0__["connect"])(mapStateToProps, mapDispatchToProps)(_todo_list__WEBPACK_IMPORTED_MODULE_1__["default"]));
+
+/***/ }),
+
+/***/ "./frontend/components/todos/todo_list_item.jsx":
+/*!******************************************************!*\
+  !*** ./frontend/components/todos/todo_list_item.jsx ***!
+  \******************************************************/
+/*! exports provided: TodoListItem, default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TodoListItem", function() { return TodoListItem; });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+
+var TodoListItem = function TodoListItem(todo) {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, todo.title);
+};
+/* harmony default export */ __webpack_exports__["default"] = (TodoListItem);
 
 /***/ }),
 
